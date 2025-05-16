@@ -16292,4 +16292,9 @@ readers do not read off random characters that represent icons */
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+ .rounded-image {
+        border-radius: 50%;
+        object-fit: cover; 
+        width: 300px;
+        height: 300px;
+ }
